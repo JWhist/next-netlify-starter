@@ -1,12 +1,7 @@
-const axios = require("axios");
-const myFunc = axios.get(
-  "https://angry-goodall-44bfac.netlify.app/.netlify/functions/myFunction"
-);
-
 export default function RandomThing() {
   return (
     <p>
-      <Button onClick={myFunc}>Click me</Button>
+      <Button onClick={() => console.log("yo world")}>Click me</Button>
     </p>
   );
 }
