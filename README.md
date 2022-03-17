@@ -37,3 +37,5 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 3. Run `npm run dev`
 4. Make your changes
 5. Connect to [Netlify](https://url.netlify.com/Bk4UicocL) manually (the `netlify.toml` file is the one you'll need to make sure stays intact to make sure the export is done and pointed to the right stuff)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bed4a834-a3f9-4943-8fca-28c06a44042a/deploy-status)](https://app.netlify.com/sites/angry-goodall-44bfac/deploys)
